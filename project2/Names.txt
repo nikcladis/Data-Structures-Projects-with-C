@@ -1,0 +1,14 @@
+Names:
+
+	Βασίλης Χριστογιάννης 		AM: 2022201800230	dit18230@uop.gr
+	Νικόλαος Κλάδης-Κουντούρης 	AM: 2022201800086	dit18086@uop.gr
+
+Files:
+
+	main.c
+	functions.c
+	functions.h
+
+COMPILER:
+
+	gcc -o main main.c functions.c 
